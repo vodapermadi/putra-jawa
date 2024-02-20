@@ -1,7 +1,7 @@
-import Navbar from "./navbar";
-import Circle from "./circle";
-import ListProduct from "./listProduct";
-import ProductComponents from "./productComponents";
+import Navbar from "./lib/navbar";
+import Circle from "./lib/circle";
+import ListProduct from "./lib/listProduct";
+import ProductComponents from "./lib/productComponents";
 
 export {
     Navbar,
